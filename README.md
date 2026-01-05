@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**joesinthecloud/joesinthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joe, a cloud engineer based in Houston, TX.
 
-Here are some ideas to get you started:
+I focus on cloud engineering and DevOps, building infrastructure that is reliable, repeatable, and easy to reason about. Most of my work centers around AWS, infrastructure as code, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I share hands on projects, experiments, and systems I am actively working on. Everything here is built from scratch and meant to reflect real world cloud and DevOps practices.
+
+---
+
+### Tools & Tech
+
+- AWS
+- Terraform
+- Linux
+- GitHub Actions
+- Python
+
+---
+
+### A Bit About Me
+
+- 🍜 Proud foodie who enjoys exploring Houston’s diverse cuisine  
+- 🏉 Former college rugby player  
+- ⛳ I enjoy golfing in my free time  
+- 👶 My fiancée and I recently welcomed a newborn daughter
+- 🧱 I enjoy building solutions that are easy to understand, and get the job done cost effectively
